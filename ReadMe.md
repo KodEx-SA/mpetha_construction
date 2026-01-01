@@ -270,7 +270,7 @@ The website is fully responsive with breakpoints at:
 ## 📞 Support
 
 For technical support or customizations:
-- Developer: Ashley Koketso
+- Developer: Ashley K Koketso
 - Email: motsieashley31@gmail.com
 - GitHub: https://github.com/KodEx-SA/
 
